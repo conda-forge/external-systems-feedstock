@@ -148,6 +148,3 @@ Feedstock Maintainers
 * [@jettdc](https://github.com/jettdc/)
 * [@uz1pk](https://github.com/uz1pk/)
 
-
-<!-- dummy commit to enable rerendering -->
-
