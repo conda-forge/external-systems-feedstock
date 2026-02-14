@@ -1,5 +1,5 @@
 {% set name = "external-systems" %}
-{% set version = "0.110.0" %}
+{% set version = "0.111.0" %}
 {% set u_name = "external_systems" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ u_name }}-{{ version }}.tar.gz
-  sha256: bf048ade98e80cf035bd95fd0506747a43ae94705d7bc85eab4c1fde4b2e9147
+  sha256: 2da2f4205ceb2ba7ec51fbe22ae56d7f59d02e05e7caca19d1bb0e7612cd40a0
 
 build:
   noarch: python
