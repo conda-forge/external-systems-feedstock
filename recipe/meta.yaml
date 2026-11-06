@@ -1,5 +1,5 @@
 {% set name = "external-systems" %}
-{% set version = "0.112.0" %}
+{% set version = "0.113.0" %}
 {% set u_name = "external_systems" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ u_name }}-{{ version }}.tar.gz
-  sha256: 8d4d2cc470abc133467fd0f71503f93606abca64c1c3d3e82e3bc324740fbeea
+  sha256: 09a1c97ba8804815c999a016d719402828293c12ce5e3d4a3ec7b954b3554a61
 
 build:
   noarch: python
